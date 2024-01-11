@@ -15,3 +15,5 @@
     $ brew install git
 
 Подробности доступны по ссылке: <https://git-scm.com/download/mac.>
+
+ [ <- На главную](/Readme.md)

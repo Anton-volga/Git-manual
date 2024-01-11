@@ -13,3 +13,5 @@
     > sudo apt install git
 
 Более подробные сведения можно получить по ссылке: <https://git-scm.com/download/linux/.>
+
+ [ <- На главную](/Readme.md)
