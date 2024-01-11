@@ -12,11 +12,11 @@ LICENSE: [MIT](./license.md)
 4. [*Установка в Linux*](/Ustanovka%20linux.md)
 5. [*Установка на Mac*](/Ustanovka%20Mac.md)
 6. [*Установка в Windows*](/Ustanovka%20Windows.md)
-7. *Настройка Git*
-8. *Выбор ветки по умолчанию*
-9. *Работа в репозитории*
-10. *Файл .gitignore*
-11. *Управление удаленными репозиториями*
-12. *Заключение*
+7. [*Настройка Git*](/Nastroyka%20Git.md)
+8. [*Выбор ветки по умолчанию*](/Vibor%20vetki.md)
+9. [*Работа в репозитории*](/Rabota%20rep.md)
+10. [*Файл .gitignore*](/gitignore.md)
+11. [*Управление удаленными репозиториями*](/Upravlen%20udal%20rep.md)
+12. [*Заключение*](/Zakluchenie.md)
 
 
