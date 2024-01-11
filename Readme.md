@@ -6,12 +6,12 @@ LICENSE: [MIT](./license.md)
 
 ## **Содержание:**
 
-1. *Введение*
-2. *Принципы работы с Git*
-3. *Установка Git*
-4. *Установка в Linux*
-5. *Установка на Mac*
-6. *Установка в Windows*
+1. [*Введение*](/Vvedenie.md)
+2. [*Принципы работы с Git*](/Principi%20raboti.md)
+3. [*Установка Git*](/Ustanovka%20Git.md)
+4. [*Установка в Linux*](/Ustanovka%20linux.md)
+5. [*Установка на Mac*](/Ustanovka%20Mac.md)
+6. [*Установка в Windows*](/Ustanovka%20Windows.md)
 7. *Настройка Git*
 8. *Выбор ветки по умолчанию*
 9. *Работа в репозитории*
